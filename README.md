@@ -1,6 +1,8 @@
 # Firebot-Beta-Program
 The Firebot Beta Program
 
+This version of the bot is entended for single server use, you can test it on multiple servers if you want but performance can't be guarenteed.
+
 
 Step 1 - Go to https://discordapp.com/developers/ and log in with your discord account.
 
