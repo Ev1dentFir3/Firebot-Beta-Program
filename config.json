@@ -1,0 +1,25 @@
+{
+    "BotSettings": {
+        "BotToken": "YOUR_TOKEN_HERE!!!!!",
+        "Debug": false,
+        "ignoreBots": true,
+        "prefix": ".",
+        "useDatabase": false
+    },
+    "AutoChannelSettings": {
+        "newChannelName": "Channel",
+        "channelPrefixs": {
+            "Mode1":  "🔥",
+            "Mode2":  "🎮",
+            "Mode3":  "👥"
+        },
+        "groupCreatorPermissions": {
+            "MANAGE_CHANNELS": true,
+            "MOVE_MEMBERS": true,
+            "MANAGE_PERMISSIONS": false
+        }
+    },
+    "AutoRoleSettings": {
+        "rolePrefix": "🎮"
+    }
+}
