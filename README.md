@@ -8,7 +8,7 @@ Step 2 - Create a new bot and then create a user token for that bot.
 
 Step 3 - Go to https://discordapi.com/permissions.html and enter your Client ID, and select Administrator from the permissions list (first one), then click the link to invite the new bot you just created to your server.
 
-Step 4 - Now grab your User Token from the discord developers page and put it into your config.json file in the bot folder. (notepad or notepad++ to open the json file works fine)
+Step 4 - Now grab your User Token from the discord developers page and put it into your config.json file in the bot folder.
 
 Step 5 - Launch and test. (Windows: core-win.exe | Linux: core-linux | Mac OS: core-macos)
 
@@ -19,3 +19,5 @@ Notes:
 2. Discord.js has some bugs with moving channels, so work with me on this while I find a better more reliable way.
 
 3. I'll be releasing them in versions, and will keep the most stable versions available for some time.
+
+4. When editing the config.json you might need a code editor for this if notepad breaks the bot after saving the config file. This is caused by the emoji's used for the prefix's of channels and roles". Grab a free version of visual studio code!
