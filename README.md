@@ -23,3 +23,9 @@ Notes:
 3. I'll be releasing them in versions, and will keep the most stable versions available for some time.
 
 4. When editing the config.json you might need a code editor for this if notepad breaks the bot after saving the config file. This is caused by the emoji's used for the prefix's of channels and roles". Grab a free version of visual studio code!
+
+
+Become a Contributor!
+
+Know JavaScript, node.js, and want to help out? Apply Today and join the Firebot Team!
+https://docs.google.com/forms/d/e/1FAIpQLSdkYvN4-phHFJwb5fsUqGO_Gk128MtS0WlTBiwLKdbzOmk0cg/viewform
